@@ -4,7 +4,7 @@ How to use bot:
 1. you need to replace the token in config.json and the name of your bot.
 2. extract node_modules.zip into your bot's file.
 3. go to your cmd and type the following:       
-    a.  desktop.      
+    a. cd desktop.      
     b. cd {your folder name}.       
     c. nodemon.       
   
