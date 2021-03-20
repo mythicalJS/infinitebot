@@ -10,9 +10,10 @@ you can join my support server by clicking this: https://discord.gg/kcd8TWG2nJ
     b. cd {your folder name}.       
     c. nodemon.  
     d. npm install.
-    
 3. add your bot to your server and you are done!
 # my socials:
 if you wish please join my discord server: https://discord.io/mythicalsmp
+
 and also follow my IG: mythical_
+
 and sub to my youtube: https://www.youtube.com/channel/UC7sSQFH6Vm1LPxAQqJVpMdA
